@@ -1,0 +1,16 @@
+  990  ls
+  991  cd CO
+  992  cd College
+  993  ls
+  994  cd CS_412
+  995  ls
+  996  cd MLFinalProject
+  997  pwd
+  998  sudo find / -name "libclang*.so*"\n
+  999  find / -name "libclang*.so*"\n
+ 1000  sudo find / -name "libclang*.so*"\n
+ 1001  /usr/local/bin/python3
+ 1002  python3 test.py
+ 1003  python3 test.py
+ 1004  python3 test.py
+ 1005  python3 test.py
